@@ -190,12 +190,3 @@ virtual-lab/
 
 ---
 
-## Demonstration
-
-A demo video showcasing the implemented features has been submitted alongside this project.
-
----
-
-## Author
-
-Developed by Fennan as part of an academic project submission.
